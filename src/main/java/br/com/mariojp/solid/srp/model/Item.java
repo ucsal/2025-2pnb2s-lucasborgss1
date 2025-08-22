@@ -1,4 +1,4 @@
-package br.com.mariojp.solid.srp;
+package br.com.mariojp.solid.srp.model;
 
 public class Item {
 	

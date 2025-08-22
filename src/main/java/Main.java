@@ -1,4 +1,5 @@
-import br.com.mariojp.solid.srp.*;
+import br.com.mariojp.solid.srp.model.*;
+import br.com.mariojp.solid.srp.service.ReceiptService;
 
 public class Main {
 	
