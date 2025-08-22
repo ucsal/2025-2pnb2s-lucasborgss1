@@ -1,5 +1,8 @@
 package br.com.mariojp.solid.srp;
 
+import br.com.mariojp.solid.srp.model.Item;
+import br.com.mariojp.solid.srp.model.Order;
+import br.com.mariojp.solid.srp.service.ReceiptService;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
